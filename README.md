@@ -1,2 +1,2 @@
 # movie_trailer
-my movies project
+my Movies Project
